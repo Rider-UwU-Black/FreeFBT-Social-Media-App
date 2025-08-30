@@ -1,0 +1,35 @@
+🔹 Navigation
+
+-Back → Alt + Left Arrow
+
+-Forward → Alt + Right Arrow
+
+🔹 Reload & Dev Tools
+
+-Reload page → Ctrl + R (or F5)
+
+-Force reload (ignore cache) → Ctrl + Shift + R
+
+-Toggle Developer Tools → Ctrl + Shift + I
+
+🔹 Window Controls
+
+-Toggle Fullscreen → F11 (also works via menu)
+
+-Minimize window → Ctrl + M
+
+-Close window → Alt + F4
+
+🔹 Editing (standard OS shortcuts)
+
+-Undo → Ctrl + Z
+
+-Redo → Ctrl + Y
+
+-Cut → Ctrl + X
+
+-Copy → Ctrl + C
+
+-Paste → Ctrl + V
+
+-Select All → Ctrl + A
