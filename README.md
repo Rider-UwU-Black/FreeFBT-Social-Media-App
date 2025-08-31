@@ -4,12 +4,7 @@ i have here 2 versions of the app you simply dowload and run no install needed(f
 
 
 
-
-.. raw:: html
-
-    <video src="https://cdn.discordapp.com/attachments/1032936928112283699/1411526778182307850/62e23f.mp4?ex=68b4fa40&is=68b3a8c0&hm=a2fcb8a77e3fe288bccb9d91c9e7786aa5e23d43485b57067c646875e7f0d18d&
-    "></video>
-
+<video src="https://github.com/user-attachments/assets/d0c3580a-7cbc-4ab1-ad04-42d4e35166bc" width="352" height="720"></video>
 
 
 
